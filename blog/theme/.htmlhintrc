@@ -1,0 +1,7 @@
+{
+  "tagname-lowercase": true,
+  "attr-lowercase": true,
+  "attr-no-duplication": true,
+  "img-alt-require": true,
+  "doctype-html5": true
+}

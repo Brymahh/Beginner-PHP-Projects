@@ -1,0 +1,18 @@
+[sqlfluff]
+# Specify the SQL dialect. Change to your specific dialect if needed.
+dialect = mysql  
+# Options: ansi, mysql, postgresql, sqlite, mssql, bigquery
+
+
+[sqlfluff:rules]
+#max_line_length = 120
+trailing_comma = true
+capitalization = upper
+spacing_before_comma = true
+spacing_after_comma = true
+spacing_before_operator = true
+spacing_after_operator = true
+newline_before_comment = true
+newline_after_comment = true
+multiline_newline = true
+
